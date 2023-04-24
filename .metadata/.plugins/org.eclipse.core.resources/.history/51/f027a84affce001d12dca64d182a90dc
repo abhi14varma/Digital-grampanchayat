@@ -1,0 +1,21 @@
+package com.example.demo.entities;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       
+		int n = 143;
+		int k = 3;
+		String c = "";
+		for(int i=0 ; i < k ; i++)
+		{
+			c = c + n ; 
+		}
+		
+		System.out.println(n);
+		
+		
+	}
+
+}

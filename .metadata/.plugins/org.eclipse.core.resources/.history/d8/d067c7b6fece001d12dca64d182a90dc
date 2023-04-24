@@ -1,0 +1,17 @@
+package com.example.demo.entities;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       
+		int a = 456;
+		
+		String b+= "";
+		
+		System.out.println(b);
+		
+		
+	}
+
+}
